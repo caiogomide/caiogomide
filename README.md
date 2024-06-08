@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   
 <hr> 
 
-💬 Computer Engineering undergraduate student, expected to graduate in March 2025. Currently, I am deepening my knowledge in natural language processing   (NLP) and machine translation to develop an automatic translation system for technical documentation from English to Portuguese as part of my              undergraduate thesis. I have experience and interest in software projects, automation, and data analysis.
+💬 Computer Engineering undergraduate student, expected to graduate in March 2025. Currently, I am deepening my knowledge in natural language processing   (NLP) and machine translation to develop an automatic translation system for technical documentation from English to Portuguese as part of my              undergraduate thesis. I have experience and interest in software development, automation, and data analysis.
 
 <p align="left">
   <a href="https://skillicons.dev">
