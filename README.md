@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 * 🌱 The main languages I use are Python, Java, and Scala, but I am always willing to learn new technologies and tools.
 
-* 🔭 I am currently studying for data engineering and data-related certifications.
+* 🔭 I am currently studying for Database Certifications (MongoDB Associate Data Modeler and Oracle Database SQL Certified Associate).
  
 * 📫 How to reach me:
 
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   
 <hr> 
 
-💬 Computer Engineering undergraduate student, expected to graduate in March 2025. Currently, I am deepening my knowledge in natural language processing   (NLP) and machine translation to develop an automatic translation system for technical documentation from English to Portuguese as part of my              undergraduate thesis. I have experience and interest in software development, automation, and data analysis.
+💬 Computer Engineering undergraduate student, expected to graduate in March 2025. Currently, I am deepening my knowledge in natural language processing (NLP) and machine translation to develop an automatic translation system for technical documentation from English to Portuguese as part of my undergraduate thesis. I have experience and interest in software development, automation, data engineering and data analysis.
 
 <p align="left">
   <a href="https://skillicons.dev">
