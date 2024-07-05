@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 * 🌱 The main languages I use are Python, Java, and Scala, but I am always willing to learn new technologies and tools.
 
-* 🔭 I am currently studying for Database Certifications (MongoDB Associate Data Modeler and Oracle Database SQL Certified Associate).
+* 🔭 I am currently studying for AWS Solutions Architect Certification
  
 * 📫 How to reach me:
 
